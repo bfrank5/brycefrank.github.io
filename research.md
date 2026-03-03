@@ -51,7 +51,7 @@ Joo, Sukhyun, Temesgen Hailemariam, Bryce Frank, Aaron R. Weiskittel, Don Reimer
 Higham, Matthew, Jay Ver Hoef, Bryce Frank. 2020. *sptotal: Predicting Totals and Weighted Sums from
 Spatial Data.* CRAN package repository.
 
-### Conference Papers
+### Conference Abstracts
 
 Frank, Bryce, Francisco Mauro, Manuel Gomez Roux, Antonio García Abril, Ana Hernando, Hailemariam
 Temesgen, Kevin Ford, José Antonio Manzanera de la Vega, and Ruben Valbuena. 2017. *Small Area Estimation
@@ -61,6 +61,14 @@ Scales*.
 Erhardt, John, Douglas Nemeth, Emilie Blevins, Alexa Maine, Courtney Newlon, Bryce Frank, Emily Johnson, Scott W. Miller, Jeff Moss, Anna Smith, Barbara Adams. 2022. *Developing a standardized visual survey protocol for western North American freshwater mussels.* American Fisheries Society.
 
 Blevins, Emilie, Bryce Frank, Anna Smith, Jeff Moss. 2024. *Inventory and assessment of freshwater mussels in the Bureau of Land Management Prineville District, Oregon.* American Fisheries Society.
+
+
+Groom, Jeremiah, Bryce Frank. 2024. *Assessing Tree Mortality and Growth by Plot Climatic Condition and Change.* 16th Forest Inventory and Analysis (FIA 2024) Science Symposium.
+
+Strunk, Jacob, Bryce Frank. 2024. *Integration of Frame-Based Photo Point Clouds (NAIP3D) with FIA Plots in Oregon and Washington.* 16th Forest Inventory and Analysis (FIA 2024) Science Symposium.
+
+Frank, Bryce, Jacob L. Strunk, Karin Wolken, Jeremy S. Fried, Sean C. McKenzie. 2024. *Comparison of Digital Aerial Photogrammetry and Lidar for Post-fire Forest Modeling.* 16th Forest Inventory and Analysis (FIA 2024) Science Symposium.
+
 
 ### Other Publications
 
